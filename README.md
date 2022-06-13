@@ -2,13 +2,13 @@
 - 👀 I’m interested in Java/QA/SDET Automation.
 - 🌱 I’m currently learning JavaScript, Puppeteer, Cypress and DevOps
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
-- 📫 How to reach me via Email- kiet.shishu@gmail.com
+- 📫 How to reach me via Email- kiet(dot)shishu@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
 - My profile views : ![](https://komarev.com/ghpvc/?username=chetan-2002)
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj007champ&layout=compact" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishurajpandey&layout=compact" /></th>
     
   </tr>
 </table>
@@ -26,19 +26,19 @@
 <hr>
 <br>
 <h2>📊 Github Stats</h2>
-<a href='https://github.com/raj007champ/github-stats-transparent'></a>
+<a href='https://github.com/shishurajpandey/github-stats-transparent'></a>
 
 
-[![Shishu Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj007champ&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Shishu Raj's github stats](https://github-readme-stats.vercel.app/api?username=shishurajpandey&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj007champ&theme=neon-palenight)](https://git.io/streak-stats)
 <br>
 
-<a href="https://github.com/raj007champ/github-readme-activity-graph"><img alt="Shishu Raj;s graph" src="https://activity-graph.herokuapp.com/graph?username=raj007champ&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shishurajpandey/github-readme-activity-graph"><img alt="Shishu Raj;s graph" src="https://activity-graph.herokuapp.com/graph?username=raj007champ&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br>
 
 <!---
-raj007champ/raj007champ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shishurajpandey/raj007champ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
