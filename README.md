@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shishu Raj (@raj007champ)
+- 👋 Hi, I’m Shishu Raj (@shishurajpandey)
 - 👀 I’m interested in Java/QA/SDET Automation.
 - 🌱 I’m currently learning JavaScript, Puppeteer, Cypress and DevOps
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
@@ -31,10 +31,10 @@
 
 [![Shishu Raj's github stats](https://github-readme-stats.vercel.app/api?username=shishurajpandey&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raj007champ&theme=neon-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shishurajpandey&theme=neon-palenight)](https://git.io/streak-stats)
 <br>
 
-<a href="https://github.com/shishurajpandey/github-readme-activity-graph"><img alt="Shishu Raj;s graph" src="https://activity-graph.herokuapp.com/graph?username=raj007champ&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shishurajpandey/github-readme-activity-graph"><img alt="Shishu Raj;s graph" src="https://activity-graph.herokuapp.com/graph?username=shishurajpandey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br>
 
