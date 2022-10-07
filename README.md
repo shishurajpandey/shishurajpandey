@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/QA/SDET Automation.
 - 🌱 I’m currently learning JavaScript, Puppeteer, Cypress and DevOps
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
-- 📫 How to reach me via Email- kiet(dot)shishu@gmail.com
+- 📫 How to reach me via Email- kiet.shishu+github@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
 - My profile views : ![](https://komarev.com/ghpvc/?username=chetan-2002)
 
