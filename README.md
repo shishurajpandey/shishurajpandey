@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
 - 📫 How to reach me via Email- kiet.shishu+github@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
+- 📝 Open Source contributor to Playwright & Selenium Webdriver
 - My profile views : ![](https://komarev.com/ghpvc/?username=chetan-2002)
 
 <table style="width:100%">
