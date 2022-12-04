@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
 - 📫 How to reach me via Email- kiet.shishu+github@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
-- 📝 Open Source contributor to Playwright & Selenium Webdriver
 - My profile views : ![](https://komarev.com/ghpvc/?username=chetan-2002)
 
 <table style="width:100%">
@@ -40,6 +39,6 @@
 <br>
 
 <!---
-shishurajpandey/raj007champ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shishurajpandey/shishurajpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
