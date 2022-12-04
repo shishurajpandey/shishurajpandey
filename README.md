@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with other QA's & Developers in the community.
 - 📫 How to reach me via Email- kiet.shishu+github@gmail.com
 - ⚡ Fun fact: Pretty good with learning new technologies.
+- 📝 Open source contributor to Microsoft Playwright and Selenium Webdriver.
 - My profile views : ![](https://komarev.com/ghpvc/?username=chetan-2002)
 
 <table style="width:100%">
@@ -34,7 +35,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shishurajpandey&theme=neon-palenight)](https://git.io/streak-stats)
 <br>
 
-<a href="https://github.com/shishurajpandey/github-readme-activity-graph"><img alt="Shishu Raj;s graph" src="https://activity-graph.herokuapp.com/graph?username=shishurajpandey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br>
 
