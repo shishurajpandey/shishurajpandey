@@ -14,17 +14,7 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="c" width="100" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> 
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" width="100" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> <a href="https://www.selenium.dev/" target="_blank">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Selenium" width="100" height="40"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Selenium" width="100" height="40"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Selenium" width="100" height="40"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Selenium" width="100" height="40"/>  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Selenium" width="100" height="40"/> 
 
-<br>
-<hr>
 <br>
 <h2>📊 Github Stats</h2>
 <a href='https://github.com/shishurajpandey/github-stats-transparent'></a>
