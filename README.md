@@ -9,7 +9,7 @@
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishurajpandey&layout=compact" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishurajpandey&layout=compact"/></th>
     
   </tr>
 </table>
